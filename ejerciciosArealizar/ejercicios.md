@@ -1,4 +1,4 @@
-#ejercicitaciones
+#ejercitaciones
 
 ### Ejercitcion01
 Leer un valor y determinar si es par o impar.
