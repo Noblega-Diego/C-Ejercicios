@@ -1,5 +1,5 @@
 /*
-    program1.h es el archivo de traducción de seudocódigo a C++
+    program1.h es el archivo de traducciï¿½n de seudocï¿½digo a C++
     Copiarlo (en Linux): /usr/local/include
             o en Windows: c:\Archivos de Programa\Zinjai\MingW\Include              
     Si se mantiene en la misma carpeta que los fuentes, cambiar #include <program1.h> 
@@ -30,7 +30,7 @@ finPrincipal                                                    // Fin de unidad
 procedimiento divide(real x, real y) {
 si(y NOES 0.0) entonces
     mostrar << x << "/" << y << " es: " << x / y << salto;
-    sino
+sino
     mostrar << "No se puede dividir por cero..." << salto;
     finSi
 }
