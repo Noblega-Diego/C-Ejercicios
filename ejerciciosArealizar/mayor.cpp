@@ -5,14 +5,14 @@
 #include <stdio.h>
 
 bool isDigit(char num);
-double menorNumString(std::string cadena);
+double mayorNumString(std::string cadena);
 
 int main(int argc, char const *argv[])
 {
     std::string linea;
 
     std::getline(std::cin,linea);
-    std::cout << "mayor: " << menorNumString(linea) << "\n";
+    std::cout << "mayor: " << mayorNumString(linea) << "\n";
     return 0;
 }
 
